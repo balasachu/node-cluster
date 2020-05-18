@@ -1,6 +1,6 @@
 # Primes
 
-A simple API to retrieve a list of prime numbers between 1 and a supplied limit.
+A simple API to retrieve a list of prime numbers between 1 and a supplied limit using cluster.
 
 ## Usage
 
